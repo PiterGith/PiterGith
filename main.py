@@ -1,4 +1,4 @@
-#so this code should force you to put two numbers that added together give 150 or more
+#so this code should force you to put two numbers that added together give 150 or more, and it won't stop unitl you get it right.
 num2 = int(input("cual es tu primer numero: "))
 errapata = int(input("cual es tu segundo numero: "))
 
@@ -19,4 +19,37 @@ while num2 + errapata <= 150:
     errapata = HastaCien(errapata)
     
 print("muito bem :D")
-print(num2 + errapata)
+print("your number should be dis uan: ", num2 + errapata)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#easteregg hola jejejjjJEJjejEJJejejo2JEO2JE OJIV1IV1OX1pk10100010101011-. . ...- . .-. / --. --- -. .- / --. .. ...- . / -.-- --- ..- / ..- .--.
