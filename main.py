@@ -1,4 +1,5 @@
 #so this code should force you to put two numbers that added together give 150 or more, and it won't stop unitl you get it right.
+#blame me if u dare bitshes
 num2 = int(input("cual es tu primer numero: "))
 errapata = int(input("cual es tu segundo numero: "))
 
